@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=100&section=header&text=★dogyeom★&fontSize=70&animation=scaleIn)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=100&section=header&text=SJ&fontSize=70&animation=scaleIn)
 
 #### Hello 👋 
 
