@@ -6,7 +6,11 @@
 - I studied programming at `SSAFY` 8th.
 
 
-<div key="6">
+<div  style = "display: flex;  align-items: center; flex-direction: column;  justify-content: center;" align = "center";>
+<!-- font-size 를 조절하면 원하는 크기로 글자를 조절할 수 있습니다.-->
+  <!-- Designed and developed in-house at Oreuda (https://oreuda.kr) -->
+  <!-- 불편 사항 및 문의는 tykimdream@gmail.com으로 보내주세요 -->
+  <div key="6">
     <a href = "https://oreuda.kr/">
       <img
         src=https://oreuda.kr/api/v1/plant/card?nickname=sodam916
@@ -23,15 +27,8 @@
   <div key="3">
     <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=sodam916&hide_progress=true&theme=dark width="280" height=156 alt="MUL" />
   </div>
-
-
+  
+</div>
 
       
-***
-## 🍊Tech Stack
- ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white) 
- ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white) 
- ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
- ![python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
- ![django](https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white)
- ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
+
