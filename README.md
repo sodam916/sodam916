@@ -52,10 +52,8 @@
   
   <div key="3">
     <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=sodam916&hide_progress=true&theme=radical width="280" height=156 alt="MUL" />
+       <img src=https://github-readme-stats.vercel.app/api?username=sodam916&show_icons=true&theme=radical width="350" height="150" alt="githubStats" />
   </div>
-  
- <div key="2">
-    <img src=https://github-readme-stats.vercel.app/api?username=sodam916&show_icons=true&theme=radical width="350" height="150" alt="githubStats" />
-  </div>
+
   
 </div>
