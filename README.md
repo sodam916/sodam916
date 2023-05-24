@@ -1,7 +1,7 @@
 
 
   #### Hello 👋 
-  - I am a junior  developer.
+  - I am a junior FrontEnd developer.
   - I studied programming at `SSAFY` 8th.
 
 ***
