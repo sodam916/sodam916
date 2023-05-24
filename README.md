@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=100&section=header&text=SJ&fontSize=70&animation=scaleIn)
+
 
 #### Hello 👋 
 
@@ -26,9 +26,11 @@
   </div>
   
   <div key="3">
-    <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=sodam916&hide_progress=true&theme=gruvbox width="280" height=156 alt="MUL" />
+    <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=sodam916&hide_progress=true&theme=radical width="280" height=156 alt="MUL" />
+  </div>
+  
+  <div key="2">
+    <img src=https://github-readme-stats.vercel.app/api?username=sodam916&show_icons=true&theme=radical width="350" height="150" alt="githubStats" />
   </div>
   
 </div>
-      
-
