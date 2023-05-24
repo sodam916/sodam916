@@ -6,11 +6,24 @@
 - I studied programming at `SSAFY` 8th.
 
 
+<div key="6">
+    <a href = "https://oreuda.kr/">
+      <img
+        src=https://oreuda.kr/api/v1/plant/card?nickname=sodam916
+        alt="oreuda"
+      />
+    </a>
+  </div>
+  
+  <div key="4">
+  <h3 style ="font-size : 2em; font-weight:700;">🍀Tech Stack🍀</h3>
+    <div ></div>
+  </div>
+  
+  <div key="3">
+    <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=sodam916&hide_progress=true&theme=dark width="280" height=156 alt="MUL" />
+  </div>
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=sod_am86)](https://solved.ac/sod_am86)
- <img src="http://mazandi.herokuapp.com/api?handle=sod_am86&theme=warm"/><br>
- [![sodamm916's GitHub stats](https://github-readme-stats.vercel.app/api?username=sodamm916)](https://github.com/sodamm916/github-readme-stats)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sodamm916&layout=compact)](https://github.com/sodamm916/github-readme-stats)<br>
 
 
       
